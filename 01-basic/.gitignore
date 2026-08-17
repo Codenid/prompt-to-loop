@@ -1,8 +1,22 @@
+# Python
 .venv/
-.env
 __pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
 
-# Generated database
+# Environment
+.env
+
+# DuckDB
 *.duckdb
 *.duckdb.wal
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
