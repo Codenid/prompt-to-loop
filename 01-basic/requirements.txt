@@ -1,0 +1,7 @@
+duckdb
+numpy
+pandas
+python-dotenv
+openai
+ipykernel
+ollama
